@@ -2,6 +2,16 @@
 
 works for SOL and ETH wallet
 
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [wallet](https://app.100xdevs.com) is an Assignment/Project made as part of my learning through Harkirat's Web3 Cohort
+
+## to use/fork this project to your Local/Git -
+
+``` git clone https://github.com/ksmbhv/crypto_wallet.git ```
+
+in your local IDE, use yarn to run the dev server:
+
+```npm install yarn```
+(if not installed)
+
+```yarn install```
+```yarn dev```
